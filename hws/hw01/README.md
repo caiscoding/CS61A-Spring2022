@@ -234,7 +234,7 @@ Write a function that takes an integer `n` that is **greater than 1** and return
 
 <font color="#bd31e9">
 
-编写一个函数，接收一个 **大于 1** 的整数 `n` ，并返回小于 `n` 的最大整数，并且该数能整除 `n` 。
+编写一个函数，接收一个 **大于 1** 的整数 `n` ，并返回小于 `n` 的最大整数，并且该数能被 `n` 整除。
 
 </font>
 
@@ -254,7 +254,7 @@ def largest_factor(n):
 
 > **Hint**: To check if `b` evenly divides `a`, you can use the expression `a % b == 0`, which can be read as, "the remainder of dividing `a` by `b` is 0."
 
-> <font color="#bd31e9"> **提示** ：要检查 `b` 是否整除以 `a` ，可以使用表达式 `a % b == 0` ，可以读作：“a除以b的余数是0”。
+> <font color="#bd31e9"> **提示** ：要检查 `b` 是否被 `a` 整除，可以使用表达式 `a % b == 0` ，可以读作：“a除以b的余数是0”。
 </font>
 
 Use Ok to test your code:
