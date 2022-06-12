@@ -94,7 +94,7 @@ def largest_factor(n):
             return i
 ```
 
-## Run ok
+## Running tests
 
 ```
 python3 ok

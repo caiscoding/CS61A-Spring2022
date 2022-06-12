@@ -1,19 +1,8 @@
-# Solution
+# Lab 0 Solution
 
-## lab00/lab00.py
+## Q1: ilove61a
 
-```py
-def twenty_twenty_two():
-    """Come up with the most creative expression that evaluates to 2022,
-    using only numbers and the +, *, and - operators.
-
-    >>> twenty_twenty_two()
-    2022
-    """
-    return 2022
-```
-
-## lab00/parsons_probs/ilove61a.py
+**lab00/parsons_probs/ilove61a.py**
 
 ```py
 def ilove61a():
@@ -26,7 +15,22 @@ def ilove61a():
     return "I love CS 61A!"
 ```
 
-## Run ok
+## Q2: wenty_twenty_two
+
+**lab00/lab00.py**
+
+```py
+def twenty_twenty_two():
+    """Come up with the most creative expression that evaluates to 2022,
+    using only numbers and the +, *, and - operators.
+
+    >>> twenty_twenty_two()
+    2022
+    """
+    return 2022
+```
+
+## Running tests
 
 ```
 $ python3 ok
@@ -43,7 +47,7 @@ Test summary
     4 test cases passed! No cases failed.
 ```
 
-## Run ok -u
+## Running ok -u
 
 ```
 $ python3 ok -u
