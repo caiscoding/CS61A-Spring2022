@@ -311,11 +311,11 @@ python3 parsons
 
 ### Q1: Count Until Larger
 
-实现函数 `count_until_larger` 。 `count_until_larger` 接收一个正整数 `num` 。 `count_until_larger` 计算 `num` 的最右边的数字与最近的大数字之间的距离；为此，函数从右到左计算数字。一旦遇到一个比最右边的数字大的数字，它就会返回这个数字。如果没有这样的数字，那么函数就会返回 `-1` 。
+实现函数 `count_until_larger` 。 `count_until_larger` 接收一个正整数 `num` 。 `count_until_larger` 计算 `num` 的最右边的数字与最近的大数字之间的距离；为此，函数从右到左计算数字。一旦遇到一个比最右边的数字大的数字，它就会两者之间的距离。如果没有比最右边大的数字，那么函数就会返回 `-1` 。
 
-例如， `8117` 的最右边的数字是 `7` ，返回 `3` 。 `9118117` 也返回 `3` ：对于这两个数字，计数停止在 `8` 。
+例如， `8117` 的最右边的数字是 `7` ，返回 `3` 。 `9118117` 也返回 `3` ：对于这两个数字，距离停止在 `8` 。
 
-`0` 应该被视为没有数字，并返回一个 `-1` 的计数。
+`0` 应该被视为没有数字，并返回一个 `-1` 。
 
 关于 `count_until_larger` 的具体行为，请参考下面的测试：
 
@@ -344,7 +344,7 @@ def count_until_larger(num):
 
 ### Q2: Filter Sequence
 
-编写一个函数 `filter_sequence` ，它接收两个整数 `start` 和 `stop` ，以及一个函数 `cond` ，它接收一个参数并输出一个布尔值。 `filter_sequence` 返回 `cond` 返回 `True` 的从 `start` 到 `stop` （包括）的所有数字的总和。
+编写一个函数 `filter_sequence` ，它接收两个整数 `start` 和 `stop` ，以及一个函数 `cond` ， `cond` 接收一个参数并输出一个布尔值。 `filter_sequence` 计算当 `cond` 函数返回 `True` 时，从 `start` 到 `stop` （包括）的所有数字的总和。
 
 ```py
 def filter_sequence(cond, start, stop):
@@ -369,7 +369,7 @@ Douglas Hofstadter's 的 Pulitzer-prize-winning 获奖作品《哥德尔、艾�
 1. 选择一个正整数 `n` 作为开始。
 2. 如果 `n` 是偶数，就用它除以 2 。
 3. 如果 `n` 是奇数，就用它乘以 3 并加上 1 。
-4. 继续这个过程直到 `n` 是1。
+4. 继续这个过程直到 `n` 是 1 。
 
 数字 `n` 会向上和向下移动，但最终会在 1 处结束（至少对于所有曾经尝试过的数字而言——没有人证明过这个序列会终止）。类似地，冰雹在大气层中上下游走，最终落在地球上。
 
