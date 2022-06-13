@@ -1614,5 +1614,5 @@ def double_eights(n):
 使用 Ok 测试你的代码：
 
 ```
-Use Ok to test your code:
+python3 ok -q double_eights
 ```
