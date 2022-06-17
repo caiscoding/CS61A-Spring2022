@@ -2,11 +2,11 @@
 
 ## Starter Files
 
-Download [lab02.zip](https://cs61a.org/lab/lab02/lab02.zip). Inside the archive, you will find starter files for the questions in this lab, along with a copy of the [Ok](https://cs61a.org/lab/lab02/ok) autograder.
+Download [lab02.zip](https://inst.eecs.berkeley.edu/~cs61a/sp22/lab/lab02/lab02.zip). Inside the archive, you will find starter files for the questions in this lab, along with a copy of the [Ok](https://inst.eecs.berkeley.edu/~cs61a/sp22/lab/lab02/ok) autograder.
 
 # Topics
 
-Consult this section if you need a refresher on the material for this lab. It's okay to skip directly to [the questions](https://cs61a.org/lab/lab02/#required-questions) and refer back here should you get stuck.
+Consult this section if you need a refresher on the material for this lab. It's okay to skip directly to [the questions](https://inst.eecs.berkeley.edu/~cs61a/sp22/lab/lab02/#required-questions) and refer back here should you get stuck.
 
 ## Lambda Expressions
 

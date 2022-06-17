@@ -74,7 +74,7 @@ You can try out the online Hog GUI with the staff solution to the project at [ho
 
 ## Download starter files
 
-To get started, download all of the project code as a [zip archive](https://cs61a.org/proj/hog/hog.zip). Below is a list of all the files you will see in the archive once unzipped. For the project, you'll only be making changes to `hog.py`.
+To get started, download all of the project code as a [zip archive](https://inst.eecs.berkeley.edu/~cs61a/sp22/proj/hog/hog.zip). Below is a list of all the files you will see in the archive once unzipped. For the project, you'll only be making changes to `hog.py`.
 
 - `hog.py`: A starter implementation of Hog
 - `dice.py`: Functions for rolling dice
@@ -321,7 +321,7 @@ Once you are done unlocking, begin implementing your solution. You can check you
 python3 ok -q 03
 ```
 
-👩🏽‍💻👨🏿‍💻 [Pair programming?](https://cs61a.org/articles/pair-programming) Remember to alternate between driver and navigator roles. The driver controls the keyboard; the navigator watches, asks questions, and suggests ideas.
+👩🏽‍💻👨🏿‍💻 [Pair programming?](https://inst.eecs.berkeley.edu/~cs61a/sp22/articles/pair-programming) Remember to alternate between driver and navigator roles. The driver controls the keyboard; the navigator watches, asks questions, and suggests ideas.
 
 ### Problem 4 (1 pt)
 
@@ -362,7 +362,7 @@ python3 ok --score
 
 **Congratulations! You have finished Phase 1 of this project!**
 
-👩🏽‍💻👨🏿‍💻 [Pair programming?](https://cs61a.org/articles/pair-programming) This would be a good time to switch roles. Switching roles makes sure that you both benefit from the learning experience of being in each role.
+👩🏽‍💻👨🏿‍💻 [Pair programming?](https://inst.eecs.berkeley.edu/~cs61a/sp22/articles/pair-programming) This would be a good time to switch roles. Switching roles makes sure that you both benefit from the learning experience of being in each role.
 
 ## Phase 2: Playing the Game
 
@@ -497,7 +497,7 @@ python3 ok -q 07
 Great work! You just finished Phase 2 of the project!
 
 
-👩🏽‍💻👨🏿‍💻 [Pair programming?](https://cs61a.org/articles/pair-programming) Celebrate, take a break, and switch roles!
+👩🏽‍💻👨🏿‍💻 [Pair programming?](https://inst.eecs.berkeley.edu/~cs61a/sp22/articles/pair-programming) Celebrate, take a break, and switch roles!
 
 ## Phase 3: Strategies of the Game
 
@@ -584,7 +584,7 @@ Some of the experiments may take up to a minute to run. You can always reduce th
 
 Running experiments won't affect your score on the project.
 
-👩🏽‍💻👨🏿‍💻 [Pair programming?](https://cs61a.org/articles/pair-programming) We suggest switching roles now, if you haven't recently. Almost done!
+👩🏽‍💻👨🏿‍💻 [Pair programming?](https://inst.eecs.berkeley.edu/~cs61a/sp22/articles/pair-programming) We suggest switching roles now, if you haven't recently. Almost done!
 
 ### Problem 10 (1 pt)
 
