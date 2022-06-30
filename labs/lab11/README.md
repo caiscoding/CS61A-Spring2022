@@ -256,10 +256,9 @@ The behavior of both functions depends on the first token currently in `src`. Th
 - If there are no more tokens, then the list is missing a close parenthesis and we should raise an error. **Provided**
 - If the token is `)`, then we've reached the end of the list or pair. **Remove this token from the buffer** and return the `nil` object.
 - If none of the above cases apply, the next token is the operator in a combination. For example, `src` could contain `+ 2 3)`. To parse this:
-
-1. `scheme_read` the next complete expression in the buffer.
-2. Call `read_tail` to read the rest of the combination until the matching closing parenthesis.
-3. Return the results as a `Pair` instance, where the first element is the next complete expression from (1) and the second element is the rest of the combination from (2).
+    1. `scheme_read` the next complete expression in the buffer.
+    2. Call `read_tail` to read the rest of the combination until the matching closing parenthesis.
+    3. Return the results as a `Pair` instance, where the first element is the next complete expression from (1) and the second element is the rest of the combination from (2).
 
 Use Ok to unlock and test your code:
 
