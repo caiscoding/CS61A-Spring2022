@@ -935,7 +935,7 @@ python3 ok -q optional_1
 > ```py
 > ;; The let-to-lambda procedure
 > (define (let-to-lambda expr)
-  ...)
+>  ...)
 > 
 > ;; A list representing the let-to-lambda procedure
 > (define let-to-lambda-code
