@@ -4,6 +4,8 @@
 
 <a href="./"><img src="https://img.shields.io/badge/%E5%8E%9F%E6%96%87-English-green"></a>
 
+[https://caiscoding.github.io/CS61A-Spring2022/README-zh_CN](https://caiscoding.github.io/CS61A-Spring2022/README-zh_CN)
+
 这是我在学习加州大学伯克利分校 2022 年春季 CS 61A 课程时的实验、家庭作业和项目的资料库。
 
 > **Warning**
