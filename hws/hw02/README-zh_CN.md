@@ -257,6 +257,4 @@ python3 ok --submit
 
 1. 2019 年秋季 MT1 Q3：[You Again](https://cs61a.org/exam/fa19/mt1/61a-fa19-mt1.pdf#page=4)[高阶函数]
 2. 2021 年春季 MT1 Q4：[Domain on the Range](https://cs61a.org/exam/sp21/mt1/61a-sp21-mt1.pdf#page=14)[高阶函数]
-3. 2021 年秋季 MT1 Q1b：[tik](https://cs61a.org/exam/fa21/mt1/61a-fa21-mt1.pdf#page=4) [Functions and Expressions][函数和表达式]
-
-</font>
+3. 2021 年秋季 MT1 Q1b：[tik](https://cs61a.org/exam/fa21/mt1/61a-fa21-mt1.pdf#page=4)[函数和表达式]
