@@ -1,4 +1,4 @@
-# CS61A-Spring2022
+## CS 61A - Spring 2022
 
 This is my repository for labs, homeworks and projects when going through the course, CS 61A, Spring 2022, from U.C. Berkeley.
 
